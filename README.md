@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="https://leetcode.com/u/RVkt7loiBN/">
+  <a href="https://leetcode.com/u/DurgaPrasad127/">
     <img src="https://img.shields.io/badge/LeetCode-RVkt7loiBN-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.kaggle.com/durgaprasad9530">
